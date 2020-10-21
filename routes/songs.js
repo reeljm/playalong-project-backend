@@ -16,7 +16,7 @@ router.get('/id/:songId', async (req, res) => {
 router.get('/', async (req, res) => {
 	const db = req.app.get("db");
 	const songs = db.collection('Song');
-	const data = await songs.find({}, { projection: { _id: 1, name: 1} }).toArray();
+	const data = await songs.find({}, { projection: { _id: 1, name: 1} }).sort({"name":1}).toArray();
 	res.send(data);
 });
 
