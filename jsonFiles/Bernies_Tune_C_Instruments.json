@@ -1,0 +1,682 @@
+{
+    "name": "Bernie's Tune",
+    "sections": [
+        {
+            "name": "A",
+            "repeat": true,
+            "numRepeats": 2,
+            "measures": [
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 1,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 2,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 3,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 4,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 5,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "E",
+                            "min7b5"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 6,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "A",
+                            "7b9"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                }
+            ],
+            "endings": [
+                [
+                    {
+                        "arrangementMeasureNumber": null,
+                        "originalMeasureNumber": 7,
+                        "style": "swing",
+                        "chords": [
+                            [
+                                "D",
+                                "min7"
+                            ],
+                            [
+                                "D",
+                                "min7"
+                            ],
+                            [
+                                "D",
+                                "min7"
+                            ],
+                            [
+                                "D",
+                                "min7"
+                            ]
+                        ],
+                        "numberOfBeats": 4,
+                        "nextMeasure": null
+                    },
+                    {
+                        "arrangementMeasureNumber": null,
+                        "originalMeasureNumber": 8,
+                        "style": "swing",
+                        "chords": [
+                            [
+                                "E",
+                                "min7b5"
+                            ],
+                            [
+                                "E",
+                                "min7b5"
+                            ],
+                            [
+                                "A",
+                                "7b9"
+                            ],
+                            [
+                                "A",
+                                "7b9"
+                            ]
+                        ],
+                        "numberOfBeats": 4,
+                        "nextMeasure": null
+                    }
+                ],
+                [
+                    {
+                        "arrangementMeasureNumber": null,
+                        "originalMeasureNumber": 9,
+                        "style": "swing",
+                        "chords": [
+                            [
+                                "D",
+                                "min7"
+                            ],
+                            [
+                                "D",
+                                "min7"
+                            ],
+                            [
+                                "D",
+                                "min7"
+                            ],
+                            [
+                                "D",
+                                "min7"
+                            ]
+                        ],
+                        "numberOfBeats": 4,
+                        "nextMeasure": null
+                    },
+                    {
+                        "arrangementMeasureNumber": null,
+                        "originalMeasureNumber": 10,
+                        "style": "swing",
+                        "chords": [
+                            [
+                                "E",
+                                "min7b5"
+                            ],
+                            [
+                                "E",
+                                "min7b5"
+                            ],
+                            [
+                                "A",
+                                "7b9"
+                            ],
+                            [
+                                "A",
+                                "7b9"
+                            ]
+                        ],
+                        "numberOfBeats": 4,
+                        "nextMeasure": null
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "B",
+            "repeat": false,
+            "numRepeats": 0,
+            "measures": [
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 11,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "G",
+                            "7"
+                        ],
+                        [
+                            "G",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 12,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "F",
+                            "7"
+                        ],
+                        [
+                            "F",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 13,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "G",
+                            "7"
+                        ],
+                        [
+                            "G",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 14,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "F",
+                            "7"
+                        ],
+                        [
+                            "F",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 15,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "G",
+                            "7"
+                        ],
+                        [
+                            "G",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 16,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "F",
+                            "7"
+                        ],
+                        [
+                            "F",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 17,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "Bb",
+                            "maj7"
+                        ],
+                        [
+                            "Bb",
+                            "maj7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 18,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                }
+            ]
+        },
+        {
+            "name": "A",
+            "repeat": false,
+            "numRepeats": 0,
+            "measures": [
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 19,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 20,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 21,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 22,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ],
+                        [
+                            "Bb",
+                            "7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 23,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "E",
+                            "min7b5"
+                        ],
+                        [
+                            "E",
+                            "min7b5"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 24,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "A",
+                            "7b9"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ],
+                        [
+                            "A",
+                            "7b9"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 25,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 26,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                }
+            ]
+        }
+    ]
+}

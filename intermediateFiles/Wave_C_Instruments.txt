@@ -1,0 +1,40 @@
+!Wave
+=A
+Dmaj7
+Bbdim7
+Amin7
+D7
+Gmaj7
+Gmin7
+F#7
+B7
+E7
+Bb7 A7
+-
+Dmin7 G7
+Dmin7 G7
+-
+Dmin7 G7
+Dmin7 G7
+=B
+Gmin7
+C7
+Fmaj7
+Fmaj7
+Fmin7
+Bb7
+Ebmaj7
+A7b9
+=A
+Dmaj7
+Bbdim7
+Amin7
+D7
+Gmaj7
+Gmin7
+F#7
+B7
+E7
+Bb7 A7
+Dmin7 G7
+Dmin7 G7
