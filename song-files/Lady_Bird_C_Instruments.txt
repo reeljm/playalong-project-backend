@@ -7,7 +7,7 @@ Bb7
 Cmaj7
 Cmaj7
 Bbmin7
-Eb79
+Eb7
 Abmaj7
 Abmaj7
 Amin7
