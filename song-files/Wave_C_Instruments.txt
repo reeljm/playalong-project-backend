@@ -1,4 +1,5 @@
 !Wave
+$bossa
 =A
 Dmaj7
 Bbdim7
@@ -17,6 +18,7 @@ Dmin7 G7
 Dmin7 G7
 Dmin7 G7
 =B
+$mambo
 Gmin7
 C7
 Fmaj7
@@ -26,6 +28,7 @@ Bb7
 Ebmaj7
 A7b9
 =A
+$bossa
 Dmaj7
 Bbdim7
 Amin7

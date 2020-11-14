@@ -45,7 +45,8 @@ const inputPDF = process.argv[2];
         "&": "",
         "##": "",
         ".": "",
-        " ": ""
+        " ": "",
+        "m(maj7)": "minMaj7",
     };
 
     for (const token in tokenMap) {

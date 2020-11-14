@@ -1,4 +1,5 @@
 !Blue Bossa
+$bossa
 =Head
 Cmin7
 Cmin7

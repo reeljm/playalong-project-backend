@@ -11,7 +11,7 @@ function createSongFromData(filename, data) {
     let name = filename;
 
     const numberOfBeats = 4;
-    const style = "swing";
+    let style = "fourFourTime";
     let originalMeasureNumber = 1;
 
     for (let i = 0; i < lines.length; i++) {
@@ -20,6 +20,11 @@ function createSongFromData(filename, data) {
         // name of the tune:
         if (line.startsWith("!")) {
             name = line.substring(1);
+        }
+
+        // style change:
+        else if (line.startsWith("$")) {
+            style = line.substring(1);
         }
 
         // beginning of a new section:
