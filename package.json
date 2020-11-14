@@ -4,7 +4,7 @@
   "description": "backend for the playalong project",
   "main": "index.js",
   "scripts": {
-    "load-db": "node ./scripts/songTextToJson.js && node ./scripts/loadDB.js",
+    "load-db": "rm -f json-files && mkdir json-files && node ./scripts/songTextToJson.js && node ./scripts/loadDB.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },

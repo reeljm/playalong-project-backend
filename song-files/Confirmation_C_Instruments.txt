@@ -25,7 +25,7 @@ Gmin7 C7
 Fmaj7
 Emin7b5 A7b9
 Dmin7 G7
-Cmin7 F7b
+Cmin7 F7
 Bb7
 Amin7 D7
 Gmin7 C7

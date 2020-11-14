@@ -1,6 +1,6 @@
 const {MongoClient} = require('mongodb');
 const fs = require('fs').promises;
-const dirname = "./jsonFiles";
+const dirname = "./json-files";
 
 async function main() {
     const uri = "mongodb://localhost:27017/playalong-project"

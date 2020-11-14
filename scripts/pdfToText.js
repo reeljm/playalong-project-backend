@@ -1,6 +1,6 @@
 const pdfjsLib = require("../pdfjs-dist/es5/build/pdf.js");
 const fs = require('fs');
-const outputDir = "./intermediateFiles";
+const outputDir = "./song-files";
 
 const inputPDF = process.argv[2];
 
@@ -60,7 +60,7 @@ const inputPDF = process.argv[2];
         if (err) {
             console.log(`failed to save:\n${err}`);
         } else {
-            console.log(`finished making intermediate file for '${inputPDF}'`);
+            console.log(`finished making song file for '${inputPDF}'`);
         }
     });
 });

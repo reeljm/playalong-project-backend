@@ -1,6 +1,6 @@
 const fs = require('fs');
-const dirname = "./intermediateFiles";
-const outputDir = "./jsonFiles";
+const dirname = "./song-files";
+const outputDir = "./json-files";
 
 function createSongFromData(filename, data) {
     const lines = data.split('\n');
