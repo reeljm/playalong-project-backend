@@ -3,7 +3,7 @@
 Cmaj7
 Cmaj7
 Fmin7
-Bb75
+Bb7
 Cmaj7
 Cmaj7
 Bbmin7

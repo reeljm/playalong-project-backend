@@ -1,5 +1,5 @@
 {
-    "name": "Bernie's Tune",
+    "name": "Confirmation",
     "sections": [
         {
             "name": "A",
@@ -12,20 +12,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -37,20 +37,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "D",
-                            "min7"
+                            "E",
+                            "min7b5"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "E",
+                            "min7b5"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "A",
+                            "7b9"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "A",
+                            "7b9"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -62,19 +62,19 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "Bb",
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "D",
+                            "min7"
+                        ],
+                        [
+                            "G",
                             "7"
                         ],
                         [
-                            "Bb",
-                            "7"
-                        ],
-                        [
-                            "Bb",
-                            "7"
-                        ],
-                        [
-                            "Bb",
+                            "G",
                             "7"
                         ]
                     ],
@@ -87,19 +87,19 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "Bb",
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "C",
+                            "min7"
+                        ],
+                        [
+                            "F",
                             "7"
                         ],
                         [
-                            "Bb",
-                            "7"
-                        ],
-                        [
-                            "Bb",
-                            "7"
-                        ],
-                        [
-                            "Bb",
+                            "F",
                             "7"
                         ]
                     ],
@@ -112,20 +112,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "E",
-                            "min7b5"
+                            "Bb",
+                            "7"
                         ],
                         [
-                            "E",
-                            "min7b5"
+                            "Bb",
+                            "7"
                         ],
                         [
-                            "E",
-                            "min7b5"
+                            "Bb",
+                            "7"
                         ],
                         [
-                            "E",
-                            "min7b5"
+                            "Bb",
+                            "7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -138,19 +138,19 @@
                     "chords": [
                         [
                             "A",
-                            "7b9"
+                            "min7"
                         ],
                         [
                             "A",
-                            "7b9"
+                            "min7"
                         ],
                         [
-                            "A",
-                            "7b9"
+                            "D",
+                            "7"
                         ],
                         [
-                            "A",
-                            "7b9"
+                            "D",
+                            "7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -165,20 +165,20 @@
                         "style": "swing",
                         "chords": [
                             [
-                                "D",
-                                "min7"
+                                "G",
+                                "7"
                             ],
                             [
-                                "D",
-                                "min7"
+                                "G",
+                                "7"
                             ],
                             [
-                                "D",
-                                "min7"
+                                "G",
+                                "7"
                             ],
                             [
-                                "D",
-                                "min7"
+                                "G",
+                                "7"
                             ]
                         ],
                         "numberOfBeats": 4,
@@ -190,19 +190,19 @@
                         "style": "swing",
                         "chords": [
                             [
-                                "E",
-                                "min7b5"
+                                "G",
+                                "min7"
                             ],
                             [
-                                "E",
-                                "min7b5"
+                                "G",
+                                "min7"
                             ],
                             [
-                                "A",
+                                "C",
                                 "7b9"
                             ],
                             [
-                                "A",
+                                "C",
                                 "7b9"
                             ]
                         ],
@@ -217,20 +217,20 @@
                         "style": "swing",
                         "chords": [
                             [
-                                "D",
+                                "G",
                                 "min7"
                             ],
                             [
-                                "D",
+                                "G",
                                 "min7"
                             ],
                             [
-                                "D",
-                                "min7"
+                                "C",
+                                "7"
                             ],
                             [
-                                "D",
-                                "min7"
+                                "C",
+                                "7"
                             ]
                         ],
                         "numberOfBeats": 4,
@@ -242,20 +242,20 @@
                         "style": "swing",
                         "chords": [
                             [
-                                "E",
-                                "min7b5"
+                                "F",
+                                "maj7"
                             ],
                             [
-                                "E",
-                                "min7b5"
+                                "F",
+                                "maj7"
                             ],
                             [
-                                "A",
-                                "7b9"
+                                "F",
+                                "maj7"
                             ],
                             [
-                                "A",
-                                "7b9"
+                                "F",
+                                "maj7"
                             ]
                         ],
                         "numberOfBeats": 4,
@@ -275,20 +275,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "Bb",
-                            "maj7"
+                            "C",
+                            "min7"
                         ],
                         [
-                            "Bb",
-                            "maj7"
+                            "C",
+                            "min7"
                         ],
                         [
-                            "G",
-                            "7"
+                            "C",
+                            "min7"
                         ],
                         [
-                            "G",
-                            "7"
+                            "C",
+                            "min7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -300,12 +300,12 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "C",
-                            "min7"
+                            "F",
+                            "7"
                         ],
                         [
-                            "C",
-                            "min7"
+                            "F",
+                            "7"
                         ],
                         [
                             "F",
@@ -333,12 +333,12 @@
                             "maj7"
                         ],
                         [
-                            "G",
-                            "7"
+                            "Bb",
+                            "maj7"
                         ],
                         [
-                            "G",
-                            "7"
+                            "Bb",
+                            "maj7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -350,20 +350,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "C",
+                            "Eb",
                             "min7"
                         ],
                         [
-                            "C",
+                            "Eb",
                             "min7"
                         ],
                         [
-                            "F",
-                            "7"
+                            "Eb",
+                            "min7"
                         ],
                         [
-                            "F",
-                            "7"
+                            "Eb",
+                            "min7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -375,19 +375,19 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "Bb",
-                            "maj7"
-                        ],
-                        [
-                            "Bb",
-                            "maj7"
-                        ],
-                        [
-                            "G",
+                            "Ab",
                             "7"
                         ],
                         [
-                            "G",
+                            "Ab",
+                            "7"
+                        ],
+                        [
+                            "Ab",
+                            "7"
+                        ],
+                        [
+                            "Ab",
                             "7"
                         ]
                     ],
@@ -400,20 +400,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "C",
-                            "min7"
+                            "Db",
+                            "maj7"
                         ],
                         [
-                            "C",
-                            "min7"
+                            "Db",
+                            "maj7"
                         ],
                         [
-                            "F",
-                            "7"
+                            "Db",
+                            "maj7"
                         ],
                         [
-                            "F",
-                            "7"
+                            "Db",
+                            "maj7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -425,45 +425,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "Bb",
-                            "maj7"
+                            "G",
+                            "min7"
                         ],
                         [
-                            "Bb",
-                            "maj7"
+                            "G",
+                            "min7"
                         ],
                         [
-                            "Bb",
-                            "maj7"
+                            "C",
+                            "7"
                         ],
                         [
-                            "Bb",
-                            "maj7"
-                        ]
-                    ],
-                    "numberOfBeats": 4,
-                    "nextMeasure": null
-                },
-                {
-                    "arrangementMeasureNumber": null,
-                    "originalMeasureNumber": 18,
-                    "style": "swing",
-                    "chords": [
-                        [
-                            "E",
-                            "min7b5"
-                        ],
-                        [
-                            "E",
-                            "min7b5"
-                        ],
-                        [
-                            "A",
-                            "7b9"
-                        ],
-                        [
-                            "A",
-                            "7b9"
+                            "C",
+                            "7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -478,24 +453,49 @@
             "measures": [
                 {
                     "arrangementMeasureNumber": null,
+                    "originalMeasureNumber": 18,
+                    "style": "swing",
+                    "chords": [
+                        [
+                            "F",
+                            "maj7"
+                        ],
+                        [
+                            "F",
+                            "maj7"
+                        ],
+                        [
+                            "F",
+                            "maj7"
+                        ],
+                        [
+                            "F",
+                            "maj7"
+                        ]
+                    ],
+                    "numberOfBeats": 4,
+                    "nextMeasure": null
+                },
+                {
+                    "arrangementMeasureNumber": null,
                     "originalMeasureNumber": 19,
                     "style": "swing",
                     "chords": [
                         [
-                            "D",
-                            "min7"
+                            "E",
+                            "min7b5"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "E",
+                            "min7b5"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "A",
+                            "7b9"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "A",
+                            "7b9"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -515,12 +515,12 @@
                             "min7"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "G",
+                            "7"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "G",
+                            "7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -532,20 +532,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "Bb",
-                            "7"
+                            "C",
+                            "min7"
                         ],
                         [
-                            "Bb",
-                            "7"
+                            "C",
+                            "min7"
                         ],
                         [
-                            "Bb",
-                            "7"
+                            "F",
+                            "7b5"
                         ],
                         [
-                            "Bb",
-                            "7"
+                            "F",
+                            "7b5"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -582,20 +582,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "E",
-                            "min7b5"
+                            "A",
+                            "min7"
                         ],
                         [
-                            "E",
-                            "min7b5"
+                            "A",
+                            "min7"
                         ],
                         [
-                            "E",
-                            "min7b5"
+                            "D",
+                            "7"
                         ],
                         [
-                            "E",
-                            "min7b5"
+                            "D",
+                            "7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -607,20 +607,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "A",
-                            "7b9"
+                            "G",
+                            "min7"
                         ],
                         [
-                            "A",
-                            "7b9"
+                            "G",
+                            "min7"
                         ],
                         [
-                            "A",
-                            "7b9"
+                            "C",
+                            "7"
                         ],
                         [
-                            "A",
-                            "7b9"
+                            "C",
+                            "7"
                         ]
                     ],
                     "numberOfBeats": 4,
@@ -632,45 +632,20 @@
                     "style": "swing",
                     "chords": [
                         [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ],
                         [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ],
                         [
-                            "D",
-                            "min7"
-                        ]
-                    ],
-                    "numberOfBeats": 4,
-                    "nextMeasure": null
-                },
-                {
-                    "arrangementMeasureNumber": null,
-                    "originalMeasureNumber": 26,
-                    "style": "swing",
-                    "chords": [
-                        [
-                            "D",
-                            "min7"
-                        ],
-                        [
-                            "D",
-                            "min7"
-                        ],
-                        [
-                            "D",
-                            "min7"
-                        ],
-                        [
-                            "D",
-                            "min7"
+                            "F",
+                            "maj7"
                         ]
                     ],
                     "numberOfBeats": 4,

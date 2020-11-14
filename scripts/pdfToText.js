@@ -35,6 +35,7 @@ const inputPDF = process.argv[2];
         "-7": "min7",
         "m7": "min7",
         "o": "dim7",
+        "dimin7": "dim7",
         "7": "7",
         "-7b5": "min7b5",
         "(b5)": "b5",
