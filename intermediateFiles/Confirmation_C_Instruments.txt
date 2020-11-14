@@ -16,6 +16,7 @@ Fmaj7
 Cmin7
 F7
 Bbmaj7
+Bbmaj7
 Ebmin7
 Ab7
 Dbmaj7
