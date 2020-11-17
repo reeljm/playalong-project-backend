@@ -5,6 +5,7 @@ const outputDir = "./json-files";
 function createSongFromData(filename, data) {
     const lines = data.split('\n');
     const sections = [];
+    let tempo = 120;
     let measures = null;
     let section = null;
     let endings = null;
@@ -20,6 +21,11 @@ function createSongFromData(filename, data) {
         // name of the tune:
         if (line.startsWith("!")) {
             name = line.substring(1);
+        }
+
+        // tempo of the tune:
+        else if (line.startsWith("^")) {
+            tempo = Number.parseInt(line.substring(1));
         }
 
         // style change:
@@ -109,7 +115,8 @@ function createSongFromData(filename, data) {
 
     return {
         name: name,
-        sections: sections
+        sections: sections,
+        tempo: tempo
     };
 }
 
