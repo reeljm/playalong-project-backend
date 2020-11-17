@@ -1,0 +1,33 @@
+!Yardbird Suite
+^140
+=A
+Cmaj7
+Fmin7 Bb7
+Cmaj7 Bb7
+A7
+Dmin7
+G7
+-
+Emin7 A7
+Dmin7 G7
+-
+Cmaj7
+F#min7b5 B7b9
+=B
+Emin7
+B7
+Emin7
+A7
+Dmin7
+A7
+Dmin7
+G7
+=A
+Cmaj7
+Fmin7 Bb7
+Cmaj7 Bb7
+A7
+Dmin7
+G7
+Cmaj7
+Dmin7 G7

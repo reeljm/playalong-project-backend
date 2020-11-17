@@ -12,15 +12,13 @@ async function main() {
 
     const filenames = await fs.readdir(dirname);
 
-    filenames.forEach(async function(filename) {
+    await filenames.forEach(async function(filename) {
         const content = await fs.readFile(dirname + "/" + filename, 'utf-8');
         const data = JSON.parse(content);
         try {
             await db.collection('Song').insertOne(data);
         } catch (e) {
             console.error(e);
-        } finally {
-            await client.close();
         }
     });
 }

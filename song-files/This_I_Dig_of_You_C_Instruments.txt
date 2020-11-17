@@ -1,0 +1,27 @@
+!This I Dig Of You
+^220
+=Head
+$mambo
+Bbmaj7
+Cmin7
+Dmin7
+Cmin7
+Bbmaj7
+Cmin7
+Bbmaj7
+Fmin7 Bb7
+$fourFourTime
+Ebmaj7
+Emin7b5 A7b9
+Dmin7
+G7
+-
+Dbmin7
+Gb7
+Cmin7
+F7
+-
+Cmin7
+F7
+Bbmaj7
+Bbmaj7

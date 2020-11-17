@@ -1,0 +1,45 @@
+!Stablemates
+^120
+=A
+$fourFourTime
+Emin7 A7
+Ebmin7 Ab7
+Dbmaj7
+C7
+Abmin7
+Db7
+Gbmaj7
+Gmin7b5 C7
+Fmin7
+Bb7alt
+$mambo
+Ebmin7
+Ab7
+Dbmaj7
+Dbmaj7
+=B
+$fourFourTime
+Fmin7
+Gb7
+Gmin7b5
+C7
+B7
+Bb7
+A7
+Ab7
+=A
+Emin7 A7
+Ebmin7 Ab7
+Dbmaj7
+C7
+Abmin7
+Db7
+Gbmaj7
+Gmin7b5 C7
+Fmin7
+Bb7alt
+$mambo
+Ebmin7
+Ab7
+Dbmaj7
+Dbmaj7
