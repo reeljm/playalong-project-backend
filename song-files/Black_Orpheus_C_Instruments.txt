@@ -1,0 +1,36 @@
+!Black Orpheus
+^140
+$bossa
+=Head
+Amin7
+Bmin7b5 E7b9
+Amin7
+Bmin7b5 E7b9
+Amin7
+Dmin7 G7
+Cmaj7
+C#dim7
+Dmin7
+G7
+Cmaj7
+Fmaj7
+Bmin7b5
+E7b9
+Amin7
+Bmin7b5 E7b9
+Amin7
+Bmin7b5 E7b9
+Amin7
+Bmin7b5 E7b9
+Emin7b5
+A7b9
+Dmin7
+Dmin7
+Dmin7
+Bmin7b5 E7b9
+Amin7
+Fmaj7
+Bmin7b5
+E7b9
+Amin7
+Bmin7b5 E7b9

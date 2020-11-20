@@ -1,0 +1,25 @@
+!How High The Moon
+^160
+=Head
+Gmaj7
+Gmaj7
+Gmin7
+C7
+Fmaj7
+Fmaj7
+Fmin7
+Bb7
+Ebmaj7
+Amin7b5 D7b9
+Gmin7
+Amin7b5 D7b9
+-
+Gmaj7
+Amin7 D7
+Bmin7 Bb7
+Amin7 D7
+-
+Bmin7 Bb7
+Amin7 D7
+Gmaj7
+Amin7 D7
