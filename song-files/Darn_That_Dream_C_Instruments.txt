@@ -9,7 +9,7 @@ Amin7 F7
 Bmin7 Bb7
 Amin7 D7
 -
-E7 D7#9
+Bbmin7 E7 Amin7 D7
 -
 Gmaj7 Bb7
 =B
@@ -29,4 +29,4 @@ Bmin7b5 E7b9
 Amin7 F7
 Bmin7 Bb7
 Amin7 D7
-Gmaj7 D7
+Bbmin7 E7 Amin7 D7
