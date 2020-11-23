@@ -1,0 +1,32 @@
+!Polka Dots And Moonbeams
+^80
+=A
+Fmaj7 Dmin7
+Gmin7 C7
+Fmaj7 Dmin7
+Gmin7 Emin7b5 A7b9
+Dmin7 Bbmin7
+Amin7 Abmin7
+Gmin7 C7
+-
+Amin7 Dmin7 Gmin7 C7
+-
+Fmaj7 Bmin7 E7
+=B
+Amaj7 Bbdim7
+Bmin7 E7
+C#min7 F#7
+Bmin7 E7
+Amaj7 Bbdim7
+Bmin7 E7
+A7 D7
+Gmin7 C7
+=A
+Fmaj7 Dmin7
+Gmin7 C7
+Fmaj7 Dmin7
+Gmin7 Emin7b5 A7b9
+Dmin7 Bbmin7
+Amin7 Abmin7
+Gmin7 C7
+Fmaj7 Gmin7 C7
