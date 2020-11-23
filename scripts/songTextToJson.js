@@ -84,8 +84,18 @@ function createSongFromData(filename, data) {
                 parsedChords.push([root, type]);
             }
             for (let i = 0; i < cnt; i++) {
-                if (parsedChords.length > 1 && i > 1) {
+                if (parsedChords.length >= 4) {
+                    chords.push(parsedChords[i]);
+                } else if (parsedChords.length === 2 && i > 1) {
                     chords.push(parsedChords[1]);
+                } else if (parsedChords.length === 3) {
+                    if (i < 2) {
+                        chords.push(parsedChords[0]);
+                    } else if (i === 2) {
+                        chords.push(parsedChords[1]);
+                    } else if (i === 3) {
+                        chords.push(parsedChords[2]);
+                    }
                 } else {
                     chords.push(parsedChords[0]);
                 }
