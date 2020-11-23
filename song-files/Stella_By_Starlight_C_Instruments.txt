@@ -1,0 +1,38 @@
+!Stella By Starlight
+^150
+=A
+Emin7b5
+A7b9
+Cmin7
+F7
+Fmin7
+Bb7
+Ebmaj7
+Ab7
+=B
+Bbmaj7
+Emin7b5 A7b9
+Dmin7
+Bbmin7 Eb7
+Fmaj7
+Emin7b5 A7b9
+Amin7b5
+D7b9
+=C
+G7#5
+G7#5
+Cmin7
+Cmin7
+Ab7#11
+Ab7#11
+Bbmaj7
+Bbmaj7
+=D
+Emin7b5
+A7b9
+Dmin7b5
+G7b9
+Cmin7b5
+F7b9
+Bbmaj7
+Bbmaj7
