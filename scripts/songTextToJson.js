@@ -75,6 +75,10 @@ function createSongFromData(filename, data) {
             const parsedChords = [];
             const cnt = 4;
             for (let c of rawChords) {
+                if (!c.match(/^[ABCDEFG][#b]*/gm)) {
+                    console.log("failed to parse chord " + c);
+                    return;
+                }
                 const root = c.match(/^[ABCDEFG][#b]*/gm)[0];
                 const type = c.replace(root, "");
                 parsedChords.push([root, type]);

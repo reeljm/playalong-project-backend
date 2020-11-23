@@ -1,0 +1,33 @@
+!Take The A Train
+^170
+=A
+Cmaj7
+Cmaj7
+D7#5
+D7#5
+Dmin7
+G7
+-
+Cmaj7 A7
+Dmin7 G7
+-
+Cmaj7
+Gmin7 C7
+=B
+Fmaj7
+Gmin7 C7
+Fmaj7
+Fmaj7
+D7
+D7
+Dmin7
+Db7
+=A
+Cmaj7
+Cmaj7
+D7#5
+D7#5
+Dmin7
+G7
+Cmaj7 A7
+Dmin7 G7
