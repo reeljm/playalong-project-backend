@@ -1,0 +1,36 @@
+!I Remember You
+^150
+=A
+Fmaj7
+Bmin7 E7
+Fmaj7
+Cmin7 F7
+Bbmaj7
+Bbmin7 Eb7
+Amin7 D7
+-
+Gmin7 C7
+-
+Cmin7 F7b
+=B
+Bbmaj7
+Emin7 A7
+Dmaj7
+Emin7 A7
+Dmaj7
+Dmin7 G7
+Cmaj7
+Gmin7 C7
+=A'
+Fmaj7
+Bmin7 E7
+Fmaj7
+Cmin7 F7
+Bbmaj7
+Bbmin7 Eb7
+Amin7
+D7
+Gmin7
+C7
+Fmaj7
+Gmin7 C7

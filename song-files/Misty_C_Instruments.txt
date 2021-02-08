@@ -1,0 +1,33 @@
+!Misty
+^75
+=A
+Ebmaj7
+Bbmin7 Eb7
+Abmaj7
+Abmin7 Db7
+Ebmaj7 Cmin7
+Fmin7 Bb7
+-
+Gmin7 C7
+Fmin7 Bb7
+-
+Ebmaj7 Bb7
+Ebmaj7
+=B
+Bbmin7 Eb7
+Bbmin7 Eb7
+Abmaj7
+Abmaj7
+Amin7 D7
+D7 F7
+Gmin7 C7
+Fmin7 Bb7
+=A
+Ebmaj7
+Bbmin7 Eb7
+Abmaj7
+Abmin7 Db7
+Ebmaj7 Cmin7
+Fmin7 Bb7
+Ebmaj7
+Fmin7 Bb7

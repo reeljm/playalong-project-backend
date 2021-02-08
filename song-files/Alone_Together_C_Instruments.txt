@@ -1,0 +1,39 @@
+!Alone Together
+^110
+=A
+Dmin7
+Emin7b5 A7
+Dmin7
+Emin7b5 A7
+Dmin7
+Amin7b5 D7
+Gmin7
+Gmin7
+Bmin7 E7
+Gmin7 C7
+Fmaj7
+Emin7b5 A7
+-
+Dmaj7
+Emin7b5 A7
+-
+Dmaj7
+Dmaj7
+=B
+Amin7b5
+D7
+Gmin7
+Gmin7
+Gmin7b5
+C7
+Fmaj7
+Emin7b5 A7
+=A
+Dmin7
+Emin7b5 A7
+Dmin7
+Emin7b5 A7
+Dmin7
+Bb7 A7
+Emin7b5 A7
+Dmin7

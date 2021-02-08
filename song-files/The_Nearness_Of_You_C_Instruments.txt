@@ -1,0 +1,37 @@
+!The Nearness Of You
+^75
+=A
+Fmaj7
+Cmin7 F7
+Bbmaj7
+Bbdim7
+Amin7 D7
+Gmin7 C7
+-
+Amin7 D7
+Gmin7 C7
+-
+Fmaj7 C7
+Fmaj7
+=B
+Gmin7
+C7
+Fmaj7
+Cmin7 F7
+Bbmaj7
+Amin7 D7
+G7
+Gmin7 C7
+
+Fmaj7
+Cmin7 F7
+Bbmaj7
+Bbdim7
+Amin7 D7
+Gmin7 C7
+Amin7b5
+D7b9
+Gmin7
+C7
+Fmaj7
+Gmin7 C7

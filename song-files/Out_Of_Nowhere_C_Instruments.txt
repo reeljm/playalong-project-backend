@@ -1,0 +1,25 @@
+!Out Of Nowhere
+^130
+=Head
+Gmaj7
+Gmaj7
+Bbmin7
+Eb7
+Gmaj7
+Gmaj7
+Bmin7
+E7
+Amin7
+E7b9
+Amin7
+Amin7
+-
+Eb7
+Eb7
+Amin7
+D7
+-
+Cmin7 F7
+Bmin7 E7
+Amin7 D7
+Gmaj7

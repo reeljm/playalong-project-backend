@@ -1,0 +1,19 @@
+!Doxy
+^90
+=Head
+Bb7 Ab7
+G7
+C7 F7
+Bb7
+Bb7 Ab7
+G7
+C7
+F7
+Bb7
+Bb7
+Eb7
+Edim7
+Bb7 Ab7
+G7
+C7 F7
+Bb7 F7

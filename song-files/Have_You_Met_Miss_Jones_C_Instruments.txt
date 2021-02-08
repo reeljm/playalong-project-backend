@@ -1,0 +1,33 @@
+!Have You Met Miss Jones?
+^130
+=A
+Fmaj7
+F#dim7
+Gmin7
+C7
+Amin7
+Dmin7
+-
+Gmin7
+C7
+-
+Cmin7
+F7
+=B
+Bbmaj7
+Abmin7 Db7
+Gbmaj7
+Emin7 A7
+Dmaj7
+Abmin7 Db7
+Gbmaj7
+Gmin7 C7
+=A
+Fmaj7
+F#dim7
+Gmin7
+C7
+Amin7 Dmin7
+Gmin7 C7
+Fmaj7
+Gmin7 C7

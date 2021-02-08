@@ -1,0 +1,25 @@
+!Tune Up
+^160
+=Head
+Emin7
+A7
+Dmaj7
+Dmaj7
+Dmin7
+G7
+Cmaj7
+Cmaj7
+Cmin7
+F7
+Bbmaj7
+Bbmaj7
+-
+Emin7
+F7
+Bbmaj7
+A7
+-
+Emin7
+A7
+Dmaj7
+A7
