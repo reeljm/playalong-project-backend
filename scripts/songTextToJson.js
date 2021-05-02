@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('fs').promises;
 const dirname = "./song-files";
 const outputDir = "./json-files";
 
@@ -119,7 +119,6 @@ function createSongFromData(filename, data) {
     }
 
     // add final section
-
     section.measures = measures;
     if (endings) {
         endings.push(ending)
@@ -134,26 +133,17 @@ function createSongFromData(filename, data) {
     };
 }
 
-
-fs.readdir(dirname, function(err, filenames) {
-    if (err) {
-        console.log(err);
-        return;
-    }
-    filenames.forEach(function(filename) {
-        fs.readFile(dirname + "/" + filename, 'utf-8', function(err, content) {
-            if (err) {
-                console.log(err);
-                return;
-            }
-            const songObj = createSongFromData(filename, content);
-            fs.writeFile(`${__dirname}/../${outputDir}/${filename.replace(".txt", "")}.json`, JSON.stringify(songObj, null, 4), (err) => {
-                if (err) {
-                    console.log(`failed to save:\n${err}`);
-                } else {
-                    console.log(`finished making json file for '${filename}'`);
-                }
-            });
-        });
+async function createSongJsonFiles() {
+    const filenames = await fs.readdir(dirname);
+    filenames.forEach(async (filename) => {
+        const content = await fs.readFile(dirname + "/" + filename, 'utf-8');
+        console.log("Converting " + dirname + "/" + filename + " to JSON");
+        const songObj = createSongFromData(filename, content);
+        if (!songObj) {
+            console.log("   Above file failed conversion!");
+        }
+        await fs.writeFile(`${__dirname}/../${outputDir}/${filename.replace(".txt", "")}.json`, JSON.stringify(songObj, null, 4));
     });
-});
+}
+
+createSongJsonFiles();

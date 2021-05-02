@@ -15,7 +15,7 @@ async function loadDB() {
     const filenames = await fs.readdir(dirname);
 
     const promises = filenames.map(function(filename) {
-        console.log("Uploading song  " + dirname + "/" + filename + " to DB");
+        console.log("Uploading song " + dirname + "/" + filename + " to DB");
         return new Promise(async (resolve, reject) => {
             try {
                 const content = await fs.readFile(dirname + "/" + filename, 'utf-8');
@@ -25,7 +25,7 @@ async function loadDB() {
             } catch (e) {
                 console.log("   Failed to move " + dirname + "/" + filename);
                 console.error(e);
-                reject();
+                resolve();
             }
         });
     });
