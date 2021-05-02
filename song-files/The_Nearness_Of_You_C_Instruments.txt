@@ -22,7 +22,7 @@ Bbmaj7
 Amin7 D7
 G7
 Gmin7 C7
-
+=A
 Fmaj7
 Cmin7 F7
 Bbmaj7
